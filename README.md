@@ -1,4 +1,4 @@
-# HW-3
+# HW3
 What code draws the blades of grass?
 line 10: stroke(random(60, 70), 100, 90);
 
